@@ -14,4 +14,5 @@ public class AverageScore {
     }
 
     Double averageScore = sum / qnt;
+    String result = (averageScore >= 7.0) ? "Passed!" : "Try again";
 }

@@ -1,4 +1,4 @@
-<h1> Essencial Programming Logic - DIO </h1>
+<h1> Essential Programming Logic - DIO </h1>
 
 These exercises were proposed during this course and I solved them using Java. 
 
